@@ -284,6 +284,13 @@ plugins:
       mode: both
       themeFonts: true
     order: 10
+  - source:
+      name: quartz-themes
+      repo: github:saberzero1/quartz-themes
+      subdir: plugin
+    enabled: true
+    order: 50
+    options: {}
 layout:
   groups:
     toolbar:
