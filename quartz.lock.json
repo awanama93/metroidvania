@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "core": {
+      "source": "https://github.com/quartz-themes/core.git",
+      "resolved": "https://github.com/quartz-themes/core.git",
+      "commit": "9fabde138a320ff83771e7925c667a3f78603daf",
+      "installedAt": "2026-08-13T09:21:42.244Z"
+    },
+    "quartz-excalidraw-plugin": {
+      "source": "https://github.com/iceprosurface/quartz-excalidraw-plugin.git",
+      "resolved": "https://github.com/iceprosurface/quartz-excalidraw-plugin.git",
+      "commit": "a2b5ce5f362d064b9ef5d9fa5fb4a51f54a552f4",
+      "installedAt": "2026-08-13T09:14:05.850Z"
+    }
+  }
+}
