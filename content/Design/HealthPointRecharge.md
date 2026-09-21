@@ -1,0 +1,3 @@
+Player bisa melakukan pengisian ulang [[HealthPoint]] dengan menggunakan [[ChargePoint]]
+
+Player bisa melakukan pengisian ulang health point jika memiliki charge point yang cukup dan menekan input...
