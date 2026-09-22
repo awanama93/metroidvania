@@ -1,0 +1,1 @@
+Trigger target adalah property yang dimiliki oleh triggering prop yang mengacu pada [[Triggering#Triggering|Triggering]] prop lain yang bisa [[TriggerStatus|diaktifkan]] jika player character berinteraksi dengan triggering prop tersebut

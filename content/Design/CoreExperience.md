@@ -28,9 +28,9 @@ Player character akan menjumpai beragam tipe [[EnemyBot|enemy bot]] yang harus [
 
 Struktur game space dalam game ini adalah [[Room|room-based]]. Jadi Player character akan [[Mengeksplorasi|mengeksplorasi]] beragam room
 Player character harus [[MembukaAksesRoom|membuka akses]] terhadap beragam room dengan menggunakan [[AccessCard|access card]] yang harus [[MenemukanAccessCard|ditemukan]] di sepanjang game space
-Player character menggunakan access card untuk membuka suatu [[Door|pintu]] atau mengaktifkan [[LockedPlatform|locked platform]]
+Player character menggunakan access card untuk membuka suatu [[Door|pintu]] atau mengaktifkan
 Player character bisa melihat [[Map|3D map]] dari game space, yang bisa [[MenavigasiMap|dinavigasi]]
-Player character bisa berinteraksi dengan [[TriggerProp|trigger prop]] untuk mengaktifkan [[TriggerableProp|triggerable prop]]
+Player character bisa berinteraksi dengan [[Triggering#Triggering|Triggering]] prop untuk mengaktifkan [[Triggerable#Triggerable|Triggerable]] prop
 Player character bisa menyimpan lokasinya dengan berinteraksi dengan [[Checkpoint]]
 Player character bisa mengamati [[DirectiveProp|directive prop]] untuk membantunya menavigasi game space
 

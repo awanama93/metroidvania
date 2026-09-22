@@ -1,5 +1,10 @@
 Platform adalah interactive prop yang bisa digunakan oleh [[PlayerCharacter]] untuk melakukan beragam [[PlatformingAction]]
 
+Suatu platform memiliki behaviour berikut:
+Mungkin [[Moveable]]
+Mungkin [[Triggerable]]
+Mungkin [[Reboundable]]
+
 ## Tipe platform
 
 ![[Static platform]]
@@ -7,9 +12,3 @@ Platform adalah interactive prop yang bisa digunakan oleh [[PlayerCharacter]] un
 ![[Moving platform]]
 
 ![[BouncingPad]]
-
-![[RotatingPlatform]]
-
-![[Slinging platform]]
-
-![[Pivoting platform]]

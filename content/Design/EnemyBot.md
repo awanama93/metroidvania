@@ -1,4 +1,5 @@
 Enemy bot adalah nonplayable character yang akan menghalangi [[PlayerCharacter]]
+![[EnemyBotBehaviour]]
 
 ## Tipe enemy bot
 
