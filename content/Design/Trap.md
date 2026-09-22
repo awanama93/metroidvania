@@ -1,6 +1,8 @@
-Trap adalah interactive prop yang kehadirannya membahayakan [[PlayerCharacter]] dan jika mengenainya [[HealthPoint]] akan berkurang
+Trap adalah interactive prop yang [[Hazardous]] (membahayakan [[PlayerCharacter]] dan jika mengenainya [[HealthPoint]] akan berkurang)
 
 ## Tipe trap
+
+![[Static trap]]
 
 ![[Overhead hazard]]
 
@@ -9,5 +11,3 @@ Trap adalah interactive prop yang kehadirannya membahayakan [[PlayerCharacter]] 
 ![[Swinging hazard]]
 
 ![[Rotating hazard]]
-
-![[Static trap]]

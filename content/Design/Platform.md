@@ -9,6 +9,8 @@ Mungkin [[Reboundable]]
 
 ![[Static platform]]
 
+![[SlidingPlatform]]
+
 ![[Moving platform]]
 
 ![[BouncingPad]]

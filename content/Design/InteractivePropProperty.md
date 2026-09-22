@@ -8,7 +8,7 @@ Interactive prop bisa memiliki property berikut:
 
 ![[Move direction]]
 
-![[Movement continuity]]
+![[Movement velocity]]
 
 ![[Route type]]
 

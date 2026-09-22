@@ -1,0 +1,1 @@
+Opening progress indicator adalah [[DirectiveProp]] yang menunjukkan jumlah trigger yang dibutuhkan untuk membuka suatu door dan status dari trigger tersebut, apakah dia sudah diaktifkan oleh player atau belum

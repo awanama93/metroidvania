@@ -2,6 +2,10 @@ Trigger requirement adalah property pada suatu [[Triggering#Triggering|Triggerin
 
 ## Tipe requirement
 
+### Interaction required
+
+Sebuah triggering prop mungkin bisa digunakan hanya dengan berinteraksi dengannya saja
+
 ### Access card
 
 Sebuah triggering prop mungkin digunakan jika dia memiliki [[AccessCard]] yang relevan

@@ -1,4 +1,5 @@
-Checkpoint adalah interactive prop yang jika [[PlayerCharacter]] berinteraksi dengannya maka akan:
+Checkpoint adalah interactive prop yang [[Saving]]
+jika [[PlayerCharacter]] berinteraksi dengannya maka akan:
 
 Mengisi ulang [[HealthPoint]] player character ^checkpointbehavior
 Menghidupkan kembali semua [[EnemyBot]] non-boss yang sudah dikalahkan oleh player character

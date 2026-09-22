@@ -4,3 +4,7 @@ Terdapat beberapa tipe interactive prop:
 [[Door]]
 [[Checkpoint]]
 [[Portal]]
+[[Switch]]
+[[BrokenFloor]]
+[[BrokenWall]]
+[[Wall]]
